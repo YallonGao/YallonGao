@@ -1,3 +1,2 @@
-- 👋 我是 @YallonGao，你也可以称呼我Yallon
-- 👀 转码
-- 🌱 我将会逐步开源自己的项目
+- 转码选手
+- [个人博客](https://yallongao.github.io/blog)
